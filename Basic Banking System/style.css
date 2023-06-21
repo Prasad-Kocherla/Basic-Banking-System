@@ -1,0 +1,161 @@
+
+
+
+.container-bg{
+  padding: 7% 12% 0;
+  background-image: url("banking_bg.png");
+  height: 800px;
+ 
+}
+.container-fluid {
+    padding: 0% 15% 0; 
+    
+    
+  }
+  
+  .body {
+    text-align: center;
+    font-family: "Cambria";
+  }
+  
+  /* TitleSection */
+  .big-heading {
+    font-size: 2.5rem;
+    text-align: left;
+    line-height: 1.5;
+    font-family: Copperplate, Papyrus, fantasy;
+    color:yellow;
+    display: inline;
+   
+  }
+  .about{
+    font-size: 2.5rem;
+    text-align: center;
+    line-height: 1.5;
+    font-family: "Lucida Handwriting";
+    color:black;
+   
+  }
+  
+  
+  #title {
+    background-color: brown;
+    color: rgb(8, 4, 4);
+    padding-bottom: 0%;
+  }
+  
+  #title .container-fluid {
+    padding: 3% 15% 7%;
+  }
+ 
+  
+  
+  /* navigationsection */
+  .navbar-heading {
+    font-size: 2.2rem;
+    font-family: "Brush Script MT";
+    padding: 0 0;
+    color:khaki;
+    text-decoration: underline; 
+    
+  }
+  
+  .navbar {
+    padding: 0 0 4.5rem;
+  }
+  
+  .nav-item {
+    color:white;
+    padding: 0 18px;
+  }
+  
+  .description {
+    font-size: 2.5rem;
+    font-family: "Cambria";
+    text-align: left;
+    padding-bottom: 7%;
+    color: white;
+    text-shadow: 3px 4px 3px red; 
+  }
+  
+  .m-img {
+    right: 30%;
+    width: 80%
+  }
+  
+ 
+  
+  /* testimonialsection */
+  #testimonials {
+    text-align: center;
+    z-index: 1;
+    color: brown;
+  }
+  
+  .testimonial-text {
+    font-size: 2.5rem;
+    padding-bottom: 7%;
+    line-height: 1.5;
+  }
+  
+  .carousel-item {
+    padding: 7% 15%;
+  }
+  
+  .testimonial-image {
+    width: 50%;
+  }
+  
+  #press { 
+    padding: 100px ;
+    color:  antiquewhite;
+    text-align: center;
+    padding-bottom: 7%;}
+  
+  .press-logo {
+    width: 10%;
+    margin: 20px 15px 10px;
+  }
+  
+  /* footerSection */
+  #footer {
+    background-color:khaki;
+    padding: 7% 15%;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .social-icon {
+    margin: 20px 10px;
+  }
+  
+  /* Customer-service */
+  /*feature-box section*/
+  #features {
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+    text-align: center;
+  }
+  
+  .feature-title {
+    font-size: 1.5rem;
+  }
+  
+  .feature-box {
+    padding: 5%;
+  }
+  
+  .icon {
+    color: #4B0082;
+    margin-bottom: 1rem;
+  }
+  
+  .icon:hover {
+    color: #4B0082;
+  }
+  .name{
+    font-family: "Papyrus";
+    font-weight: bold;
+    color:black;
+  }
